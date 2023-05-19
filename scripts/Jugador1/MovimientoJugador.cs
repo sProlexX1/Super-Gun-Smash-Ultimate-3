@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MovimientoJugador : MonoBehaviour
 {
-
+    //ESTE ES UN MENSAJE DE 19-05
     Rigidbody2D rgbd2D;
     private Animator animator;
     // Start is called before the first frame update
